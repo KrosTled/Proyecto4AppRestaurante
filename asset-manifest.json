@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/Proyecto4AppRestaurante/static/css/main.2d5a8c6c.css",
-    "main.js": "/Proyecto4AppRestaurante/static/js/main.6285a75d.js",
+    "main.css": "/Proyecto4AppRestaurante/static/css/main.336db369.css",
+    "main.js": "/Proyecto4AppRestaurante/static/js/main.774539f7.js",
     "static/js/787.1d85d887.chunk.js": "/Proyecto4AppRestaurante/static/js/787.1d85d887.chunk.js",
     "static/media/Chef.jpg": "/Proyecto4AppRestaurante/static/media/Chef.31af1f1dd8ae761cf09e.jpg",
     "static/media/Pizza.jpg": "/Proyecto4AppRestaurante/static/media/Pizza.bdb52cc6e1381d16f286.jpg",
     "static/media/quienSomosBG.svg": "/Proyecto4AppRestaurante/static/media/quienSomosBG.bcf573442eee7a494b609db99e99309a.svg",
     "static/media/inicio.svg": "/Proyecto4AppRestaurante/static/media/inicio.2c943b807b740ba0d2afa5738329930b.svg",
+    "static/media/Menu.svg": "/Proyecto4AppRestaurante/static/media/Menu.cd026822558757af6511e2def3a00199.svg",
     "index.html": "/Proyecto4AppRestaurante/index.html",
-    "main.2d5a8c6c.css.map": "/Proyecto4AppRestaurante/static/css/main.2d5a8c6c.css.map",
-    "main.6285a75d.js.map": "/Proyecto4AppRestaurante/static/js/main.6285a75d.js.map",
+    "main.336db369.css.map": "/Proyecto4AppRestaurante/static/css/main.336db369.css.map",
+    "main.774539f7.js.map": "/Proyecto4AppRestaurante/static/js/main.774539f7.js.map",
     "787.1d85d887.chunk.js.map": "/Proyecto4AppRestaurante/static/js/787.1d85d887.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2d5a8c6c.css",
-    "static/js/main.6285a75d.js"
+    "static/css/main.336db369.css",
+    "static/js/main.774539f7.js"
   ]
 }
