@@ -32,6 +32,12 @@ function PizzasElement(){
           <CardText>
             {element.ingredientes}
           </CardText>
+          <CardSubtitle
+            className="mb-2 text-muted"
+            tag="h6"
+          >
+            Precio: {element.precio}
+          </CardSubtitle>
         </CardBody>
         </Card>
         ))   
@@ -63,6 +69,12 @@ function PastasElement(){
           <CardText>
             {element.ingredientes}
           </CardText>
+          <CardSubtitle
+            className="mb-2 text-muted"
+            tag="h6"
+          >
+            Precio: {element.precio}
+          </CardSubtitle>
         </CardBody>
         </Card>
         ))   
