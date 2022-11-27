@@ -1,0 +1,9 @@
+.Nombre{
+    display: flex;
+    flex-direction: row;    
+    margin: 0 0 0 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    justify-content: flex-end;
+    color:white;
+}
